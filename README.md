@@ -7,15 +7,16 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 
 # Files
-The  Kickstarter project report is a Word Document with analysis describing the key findings from this project
-The Kickstarter Pivot Tables and Statistical Analysis is an Excel File that includes the Kickstarter data and the graphical and tabular portions of the analysis
+The  Kickstarter Report is a Word Document with analysis describing the key findings from this project
+The Kickstarter Analysis is an Excel File that includes the Kickstarter data and the graphical and tabular portions of the analysis
 
 # Objectives
 This is an Excel Analysis and project report of four thousand past Kickstarter projects to uncover hidden trends by examining the funding process and success rate.
 
 
-# Observation/Conclusions 
+# Observation/Conclusions
 
+From the dataset provided for this analysis, we notice that on average a Kickstarter project is most likely to be successful than to fail, in terms of comparison, there are 53.11% of successful projects and 37.19% of failed ones. If we take a further look at the specific categories, we realize that Theater, music, film and video are more successful than other categories such as journalism. In the sub-category we notice that plays stand out exponentially in terms of success. We also notice that the periods from May to July could be considered as hot seasons as campaigns during these seasons turn to have an increase in their success rate, while campaigns in December seem to be more unsuccessful.
 
 # Limitations
 
